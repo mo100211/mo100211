@@ -1,4 +1,4 @@
-# Hi, I'm T 👋
+# Hi, I'm Mohamad 👋
 
 I'm an Information Systems graduate exploring cloud computing, Linux, networking, and IT infrastructure.
 
